@@ -28,25 +28,21 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 ### Events
 
 Exit program
-
 ```
 ESC
 ```
 
 Move map (x,y)
-
 ```
 ARROW
 ```
 
 Zoom
-
 ```
 + / -
 ```
 
 Random Color
-
 ```
 C
 ```
