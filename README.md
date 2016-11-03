@@ -11,7 +11,7 @@ Clone the project
 git clone https://github.com/BABAK0T0/FDF
 ```
 
-Then execute Makefile
+Then execute Makefile to create an executable
 
 ```
 make re
@@ -29,11 +29,13 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
 KEYS | DESCRIPTION
 :-- |:-:| --:
-`ESC` | Exit the program
-`ARROW` | Move map(x,y)
-`+ / -` | Zoom
-`Page up / Page down` | Move map(z)
-`C` | Random color
+<kbd>ESC</kbd> | Exit the program
+<kbd>ARROW</kbd> | Move map(x,y)
+<kbd>+</kbd> | Zoom +
+<kbd>-</kbd> | Zoom -
+<kbd>Page up</kbd> | Move map(z+)
+<kbd>Page down</kbd> | Move map(z-)
+<kbd>C</kbd> | Random color
 
 ### Example
 
