@@ -1,6 +1,6 @@
 # FDF - WIREFRAME
 
-This project consists to create a graphical representation of a land by wireframe("fil de fer - fdf" in French) by connecting different points (x, y, z) by segments.
+This project consists to create a graphical representation of a land by wireframe("Fil De Fer - FDF" in French) by connecting different points (x, y, z) by segments.
 The land will be stocked in a file passed in parameters.
 
 ### Installing
@@ -17,7 +17,7 @@ Then execute Makefile
 make re
 ```
 
-## Running
+### Running
 
 Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
@@ -25,9 +25,9 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 ./fdf maps/example.fdf
 ```
 
-## Events
+### Events
 
-* ESC/CROSS				 - To exit the program
+* <icon class="keyboard-key esc"></icon> - To exit the program
 * UP/DOWN/LEFT/RIGHT	 - To move map
 * +/-					 - To Zoom
 * C						 - Random color
@@ -37,7 +37,7 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
 Develop for UNIX systems
 
-## Built With
+### Built With
 
-* [Minilibx] - The framework for graphical user interface development used
+* [Minilibx] - The framework for graphical user interface development
 
