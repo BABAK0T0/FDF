@@ -28,7 +28,7 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 ### Events
 
 KEYS | DESCRIPTION
-- |:-:| -:
+:-- |:-:| --:
 `ESC` | Exit the program
 `ARROW` | Move map(x,y)
 `+ / -` | Zoom
