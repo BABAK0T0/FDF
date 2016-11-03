@@ -30,7 +30,7 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 KEYS | DESCRIPTION
 :-- |:-:| --:
 <kbd>ESC</kbd> | Exit the program
-<kbd>ARROW</kbd> | Move map(x,y)
+<kbd>ARROWS</kbd> | Move map(x,y)
 <kbd>+</kbd> | Zoom +
 <kbd>-</kbd> | Zoom -
 <kbd>Page up</kbd> | Move map(z+)
