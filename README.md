@@ -27,25 +27,17 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
 ### Events
 
-Exit program
-```
-ESC
-```
+Exit the program
+* ESC
+
+Random color
+* C
 
 Move map (x,y)
-```
-ARROW
-```
+* ARROW
 
 Zoom
-```
-+ / -
-```
-
-Random Color
-```
-C
-```
+* + / -
 
 ### Deployment
 
