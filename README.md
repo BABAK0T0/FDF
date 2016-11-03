@@ -37,7 +37,7 @@ KEYS | DESCRIPTION
 
 ### Example
 
-![maps/42.fdf][./42.png]
+![maps_example][./42.png]
 
 ### Deployment
 
