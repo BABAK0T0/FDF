@@ -32,7 +32,12 @@ KEYS | DESCRIPTION
 `ESC` | Exit the program
 `ARROW` | Move map(x,y)
 `+ / -` | Zoom
+`Page up / Page down` | Move map(z)
 `C` | Random color
+
+### Example
+
+
 
 ### Deployment
 
