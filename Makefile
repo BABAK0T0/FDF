@@ -12,32 +12,32 @@
 
 .PHONY: all, fclean, clean, re
 
-SRC_PATH = src/
+SRC_PATH 	 = src/
 
-SRC_NAME  = src/calc_put.c		\
+SRC_NAME 	 = src/calc_put.c		\
  					 src/fdf.c					\
 					 src/map.c					\
 
-OBJ_PATH	=	obj/
+OBJ_PATH	 =	obj/
 
-INCLUDE 	= -Iinclude -Ilibft/include
+INCLUDE		 = -Iinclude -Ilibft/include
 
-LDFLAGS		=	-Llibft
-LDLIBS 		= -lft
+LDFLAGS		 =	-Llibft -Lminilibx
+LDLIBS 		 = -lft
 
-NAME 			=	fdf
+NAME 			 =	fdf
 
-CC 			=	clang
+CC 				 =	clang
 
-CFLAGS 		=	-Wall -Wextra -Werror
-LIBGRPH 	= -lmlx -framework OpenGL -framework Appkit
+CFLAGS 		 =	-Wall -Wextra -Werror
+LIBGRPH 	 = -lmlx -framework OpenGL -framework Appkit
 
-OBJ_NAME 	=	$(addsuffix .o, $(basename $(SRC_NAME)))
+OBJ_NAME 	 =	$(addsuffix .o, $(basename $(SRC_NAME)))
 
-SRC 		=	$(addprefix $(SRC_PATH),$(SRC_NAME))
-OBJ 		=	$(addprefix $(OBJ_PATH),$(notdir $(OBJ_NAME)))
+SRC 			 =	$(addprefix $(SRC_PATH),$(SRC_NAME))
+OBJ 			 =	$(addprefix $(OBJ_PATH),$(notdir $(OBJ_NAME)))
 
-VPATH		=	$(shell find $(SRC_PATH) -type d)
+VPATH			 =	$(shell find $(SRC_PATH) -type d)
 
 all: $(NAME)
 
