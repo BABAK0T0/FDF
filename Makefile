@@ -6,7 +6,7 @@
 #    By: nrandria <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/27 11:23:48 by nrandria          #+#    #+#              #
-#    Updated: 2016/02/24 04:51:47 by nrandria         ###   ########.fr        #
+#    Updated: 2016/11/04 01:47:57 by nrandria         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ SRC_NAME 	 = src/calc_put.c		\
 
 OBJ_PATH	 =	obj/
 
-INCLUDE		 = -Iinclude -Ilibft/include
+INCLUDE		 = -Iinclude -Ilibft/includes
 
 LDFLAGS		 =	-Llibft -Lminilibx
 LDLIBS 		 = -lft
