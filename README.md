@@ -19,6 +19,12 @@ make re
 
 ### Running
 
+An executable is available in deposit, if you can't `make` the Makefile
+
+```
+chmod u+x fdf
+```
+
 Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
 ```
