@@ -5,11 +5,14 @@ The land will be stocked in a file passed in parameters.
 
 ### Installing
 
+Take a look to `Minilibx/README.md` to install `Minilibx`
+
 Clone the project
 
 ```
 git clone https://github.com/BABAK0T0/FDF
 ```
+
 
 Then execute Makefile to create an executable
 
