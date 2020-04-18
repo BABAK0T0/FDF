@@ -1,6 +1,6 @@
 # FDF - WIREFRAME
 
-This project consists to create a graphical representation of a land by wireframe("Fil De Fer - FDF" in French) by connecting different points (x, y, z) by segments.
+This project consists to create a graphical representation of a land by wireframe("Fil De Fer - FDF" in french) by connecting different points (x, y, z) by segments.
 The land will be stocked in a file passed in parameters.
 
 ### Installing
@@ -49,10 +49,6 @@ KEYS | DESCRIPTION
 ### Example
 
 ![map_example](./42.png "maps/42.fdf")
-
-### Deployment
-
-Develop for UNIX systems
 
 ### Built With
 
