@@ -36,15 +36,15 @@ Choose a map in folder "maps" to print or create an other with ".fdf" extenstion
 
 ### Events
 
-KEYS | DESCRIPTION
-:-- |:-:| --:
-<kbd>ESC</kbd> | Exit the program
-<kbd>ARROWS</kbd> | Move map(x,y)
-<kbd>+</kbd> | Zoom +
-<kbd>-</kbd> | Zoom -
-<kbd>Page up</kbd> | Move map(z+)
-<kbd>Page down</kbd> | Move map(z-)
-<kbd>C</kbd> | Random color
+| KEYS | DESCRIPTION |
+| --- | --- |
+| <kbd>ESC</kbd> | Exit the program |
+| <kbd>ARROWS</kbd> | Move map(x,y) |
+| <kbd>+</kbd> | Zoom + |
+| <kbd>-</kbd> | Zoom - |
+| <kbd>Page up</kbd> | Move map(z+) |
+| <kbd>Page down</kbd> | Move map(z-) |
+| <kbd>C</kbd> | Random color |
 
 ### Example
 
@@ -52,5 +52,5 @@ KEYS | DESCRIPTION
 
 ### Built With
 
-* [Minilibx] - The framework for graphical user interface development
+* [Minilibx] - The framework for graphical user interface development made by [42](https://www.42.fr/)
 
